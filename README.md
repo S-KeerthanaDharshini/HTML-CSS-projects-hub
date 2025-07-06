@@ -21,7 +21,7 @@ This repository is dedicated to practicing and showcasing real-world interfaces 
 
 ## 📫 Contact
 
-- **Email:** [keerthana215@gmail.com](mailto:keerthana215@gmail.com)  
+- **Email:** [keerthanasaravanan215@gmail.com](mailto:keerthanasaravanan215@gmail.com)  
 - **GitHub:** [S-KeerthanaDharshini](https://github.com/S-KeerthanaDharshini)
 
 
