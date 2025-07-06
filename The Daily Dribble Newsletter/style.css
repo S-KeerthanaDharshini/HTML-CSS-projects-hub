@@ -1,0 +1,52 @@
+
+* {
+    box-sizing: border-box;
+  }
+.allcontent{
+    margin:0 auto;
+    border:3px solid #121212;
+    padding: 20px 40px;
+    text-align: center;  
+    height: 600px;
+    width:500px;
+
+}
+.football{
+    
+    width:380px;
+    border:3px solid #121212;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#121212;
+}
+
+.inputbox{
+    text-align:center;
+    padding-top:6px;
+    padding-bottom:6px;
+    padding-left:22px;
+    padding-right:22px;
+    width:180px;  
+    border:3px solid #121212;
+    margin-top:10px;
+    font-weight: bold;
+}
+.clicker{
+    width:180px;
+    background-color: #121212;
+    color:whitesmoke;
+    text-align:center;
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-left:22px;
+    padding-right:22px; 
+    border:3px solid #121212;
+    font-weight: bold;
+    margin-top:10px;
+}
+.linker,.general{
+    font-style: italic;
+    color:#121212;
+    font-family: Arial;
+}
