@@ -1,27 +1,26 @@
+# 🔍 GOOGLE HOMEPAGE CLONE  
+A basic replica of the Google search page using HTML and CSS. Clean layout, centered design, and simple search interface.
 
-## **Google Homepage Clone**  
-   A basic replica of the Google search page using HTML and CSS.  
-## 📸 Output Screenshot
+## 🌐 Live Demo  
+Check out the deployed project here:  
+👉 [GOOGLE HOMEPAGE CLONE on Netlify](https://shiny-paletas-46a04e.netlify.app/)
 
-![output1 screenshot](./Built%20a%20Google.com%20clone/output.png)
+## 🛠️ Tech Used  
+- HTML 🧱  
+- CSS 🎨
 
-## 🚀 Features
-
-- Clean, semantic HTML structure
-- CSS styling with flexbox and layout utilities
-- Beginner-friendly code with comments
-- Focused on learning visual structure and design
+## 📸 Output Screenshot  
+![Screenshot](output.png)
 
 
-## 🌱 About
+## 🌱 About  
+I'm currently learning HTML and CSS through small practice projects.  
+This repo will grow as I explore layout styles, components, and creative designs! ✨
 
-I'm currently learning HTML and CSS through practice projects.  
-This repo will grow as I explore more layout styles, components, and designs!
-
-## 📬 Contact
-
-- GitHub: [github.com/S-KeerthanaDharshini](https://github.com/S-KeerthanaDharshini)
-- Email: [keerthana215@gmail.com](mailto:keerthana215@gmail.com)
+## 📬 Contact  
+📧 keerthanasaravanan215@gmail.com  
+🔗 [GitHub Profile](https://github.com/S-KeerthanaDharshini)
 
 > "Every line of code is a step forward. Keep building!" 🌟
+
 
