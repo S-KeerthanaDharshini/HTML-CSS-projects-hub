@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.title {
+    font-weight: lighter;
+}
+h1{
+    font-weight: bolder;
+    
+}
+a{
+color: #007185;
+}
+.main-img {
+    height: 500px;
+    width: 350px;
+    box-shadow:5px 5px 5px lightgray;
+}
+.flexing{
+    display:flex;
+    border: 3px solid  black ;
+    justify-content: center;
+    margin:100px 100px;
+   padding:10px 0px 10px 0px;
+   flex-wrap: wrap;
+    gap:25px;
+}
+.bread{
+    color :#565959;
+}
+.firstflex{
+ /* border: 3px solid  black ; /*must remove*/
+
+}
+.secondflex{
+ /*  border: 3px solid  black ;/*must remove*/
+    width: 800px;
+}
+.star{
+    height: 10px;
+    width:90px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
