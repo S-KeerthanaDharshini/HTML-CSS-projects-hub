@@ -1,0 +1,33 @@
+body{
+    color : #6D85B1;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    margin:0;
+}
+.apply-btn{
+    height : 35px;
+    width : 100px;
+    background-color: white;
+    padding:6px 12px;
+    border:none;
+    font-family :inherit; 
+    font-weight:800;
+    color:#6D85B1;
+}
+.sunderline{
+    text-decoration : underline white 3px;
+    text-underline-offset : 5px;
+}
+#logo{
+    height : 80px;
+    width :200px;
+
+}
+#hero{
+    background-image : url("space animation.gif");
+    background-size : cover;
+    padding :10px 0 40px 0;
+}
+#topic{
+    text-shadow:0px 0px 8px black;
+}
